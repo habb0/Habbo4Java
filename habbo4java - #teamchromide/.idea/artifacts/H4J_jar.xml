@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="H4J:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/H4J_jar</output-path>
+    <root id="archive" name="H4J.jar">
+      <element id="module-output" name="H4J" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gaplist.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/bonecp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/slf4j-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/trove.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/mysql.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/guava.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/slf4j.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/log4j.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
